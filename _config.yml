@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanru Wu"
-description              : 
+description              : #
 repository               : "Yanru-Wu/Yanru-Wu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanru Wu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "B.Eng. @ HUST 27'"
+  bio              : "B.Eng.@HUST 27'"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
