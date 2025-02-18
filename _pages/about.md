@@ -21,7 +21,7 @@ I am a sophomore at Huazhong University of Science and Technology, working with 
 
 My research interests are broadly distributed in **Multimodal**, **Embodied AI** and **Deep Reinforcement Learning**.
 
-Besides, I also have a keen interest in quantitative finance.
+Besides, I also have a keen interest in **AI for Finance**.
 
 
 # 🔥 News
