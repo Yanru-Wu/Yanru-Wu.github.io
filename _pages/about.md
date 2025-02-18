@@ -27,7 +27,7 @@ My research interests are broadly distributed in **Multimodal**, **Embodied AI**
 
 # 📝 Publications (* indicates equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ISG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
 [Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment](https://arxiv.org/pdf/2411.17188)
