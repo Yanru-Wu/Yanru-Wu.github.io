@@ -35,9 +35,6 @@ My research interests are broadly distributed in **Multimodal**, **Embodied AI**
 Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Chen\*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna
 
 
-# 🎖 Honors and Awards
-
-
 # 📖 Educations
 - 2023.09 - 2027.06 (expected), B.Eng. Huazhong University of Science and Technology
 
