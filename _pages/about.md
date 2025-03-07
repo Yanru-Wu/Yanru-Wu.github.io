@@ -19,7 +19,7 @@ redirect_from:
 
 I am a sophomore at Huazhong University of Science and Technology, working with Professor Yao Wan.
 
-My research interests are broadly distributed in **Multimodal**, **Embodied AI** and **Deep Reinforcement Learning**.
+My research interests are broadly distributed in **Embodied AI** and **Deep Reinforcement Learning**.
 
 
 # 🔥 News
