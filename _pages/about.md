@@ -39,6 +39,6 @@ Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Che
 - 2023.09 - 2027.06 (expected), B.Eng. Huazhong University of Science and Technology
 
 # 🎓 Services
-Conference Reviewer
+Conference Reviewer <br />
 CVPR 2025 Workshop SynData4CV
 # 💻 Internships
