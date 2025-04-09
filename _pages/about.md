@@ -19,7 +19,7 @@ redirect_from:
 
 I am a sophomore at Huazhong University of Science and Technology, working with Professor Yao Wan.
 
-My research interests are broadly distributed in **Embodied AI** and **Deep Reinforcement Learning**.
+My research interests are broadly distributed in **3D computer vision**,**Embodied AI** and **Reinforcement Learning**.
 
 
 # 🔥 News
@@ -38,6 +38,7 @@ Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Che
 # 📖 Educations
 - 2023.09 - 2027.06 (expected), B.Eng. Huazhong University of Science and Technology
 
-# 💬 Invited Talks
-
+# 🎓 Services
+Conference Reviewer
+CVPR 2025 Workshop SynData4CV
 # 💻 Internships
