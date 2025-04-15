@@ -29,7 +29,7 @@ My research interests are broadly distributed in **3D computer vision**,**Embodi
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="margin-top: -30px;"> 
+    <div style="margin-top: -50px;"> 
       <div class="badge">ICLR 2025 Spotlight</div>
       <img src='images/ISG.png' alt="sym" width="100%">
     </div>
