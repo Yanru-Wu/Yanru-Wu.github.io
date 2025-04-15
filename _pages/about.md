@@ -29,7 +29,7 @@ My research interests are broadly distributed in **3D computer vision**,**Embodi
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="margin-top: -100px;"> 
+    <div style="margin-top: -130px;"> 
       <div class="badge">ICLR 2025 Spotlight</div>
       <img src='images/ISG.png' alt="sym" width="100%">
     </div>
@@ -40,6 +40,9 @@ My research interests are broadly distributed in **3D computer vision**,**Embodi
 
 Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Chen\*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna
 
+</div>
+</div>
+<div style="clear: both;"></div>
 
 # 📖 Educations
 - 2023.09 - 2027.06 (expected), B.Eng. Huazhong University of Science and Technology
