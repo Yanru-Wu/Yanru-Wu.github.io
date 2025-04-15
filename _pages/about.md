@@ -27,9 +27,15 @@ My research interests are broadly distributed in **3D computer vision**,**Embodi
 
 # 📝 Publications (* indicates equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Spotlight</div><img src='images/ISG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
- 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div style="margin-top: -30px;"> 
+      <div class="badge">ICLR 2025 Spotlight</div>
+      <img src='images/ISG.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
 [Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment](https://arxiv.org/pdf/2411.17188)
 
 Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Chen\*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna
