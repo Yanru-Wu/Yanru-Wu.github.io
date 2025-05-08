@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a sophomore at Huazhong University of Science and Technology, working with Professor Yao Wan.
+Hi, I'm Yanru Wu (吴彦儒)
+I am currently a sophomore at Huazhong University of Science and Technology, working with Professor Yao Wan.
 
 My research interests are broadly distributed in **3D computer vision**,**Embodied AI** and **Reinforcement Learning**.
 
