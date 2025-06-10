@@ -36,6 +36,10 @@ My research interests are broadly distributed in **3D computer vision**,**Embodi
 
 Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Chen\*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna
 
+</div>
+</div>
+<div style="clear: both;"></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/ISG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
