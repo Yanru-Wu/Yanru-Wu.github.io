@@ -28,7 +28,8 @@ If you would like to discuss my research or potential collaborations further, fe
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 A paper is accepted by ICLR 2025, and it is selected as Spotlight!
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2025 Findings!
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025, and it is selected as Spotlight!
 
 # 📝 Publications (* indicates equal contribution)
 
