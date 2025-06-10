@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yanru Wu (吴彦儒).
+Hi, I'm **Yanru Wu (吴彦儒)**.
 
 I am currently a sophomore at Huazhong University of Science and Technology. 
-At present, I am fortunate to work with [Prof.Yue Wang](https://yuewang.xyz/) in [GVL Lab](https://usc-gvl.github.io/) at University of Southern California. And I am also a member of [ONE Lab](https://oneslab.github.io/) at Huazhong University of Science and Technology, leaded by [Prof.Yao Wan](http://wanyao.me/).
+
+At present, I am fortunate to work with [Prof.Yue Wang](https://yuewang.xyz/) in the [GVL Lab](https://usc-gvl.github.io/) at University of Southern California. And I am also a member of [ONE Lab](https://oneslab.github.io/) at Huazhong University of Science and Technology, led by [Prof.Yao Wan](http://wanyao.me/).
 
 My research interests are broadly distributed in **3D computer vision**,**Embodied AI** and **Reinforcement Learning**.
 If you would like to discuss my research or potential collaborations further, feel free to contact me. I'm open to connect and collaborate with each other.
