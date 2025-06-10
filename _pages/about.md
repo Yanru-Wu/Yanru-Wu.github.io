@@ -36,6 +36,12 @@ My research interests are broadly distributed in **3D computer vision**,**Embodi
 
 Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Chen\*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/ISG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+[The Impact of Large Language Models in Academia:from Writing to Speaking](https://openreview.net/pdf?id=mnCJvC7Iab)
+
+Mingmeng Geng\*, Caixi Chen\*, **Yanru Wu\***, Yao Wan, Pan Zhou, Dongping Chen
 </div>
 </div>
 <div style="clear: both;"></div>
