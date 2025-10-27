@@ -49,7 +49,7 @@ Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Che
  
 [The Impact of Large Language Models in Academia:from Writing to Speaking](https://arxiv.org/abs/2409.13686)
 
-Mingmeng Geng\, Caixi Chen\, **Yanru Wu\**, Yao Wan, Pan Zhou, Dongping Chen
+Mingmeng Geng, Caixi Chen, **Yanru Wu**, Yao Wan, Pan Zhou, Dongping Chen
 </div>
 </div>
 <div style="clear: both;"></div>
