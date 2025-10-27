@@ -47,9 +47,9 @@ Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Che
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/outline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
-[The Impact of Large Language Models in Academia:from Writing to Speaking](https://openreview.net/pdf?id=mnCJvC7Iab)
+[The Impact of Large Language Models in Academia:from Writing to Speaking](https://arxiv.org/abs/2409.13686)
 
-Mingmeng Geng\*, Caixi Chen\*, **Yanru Wu\***, Yao Wan, Pan Zhou, Dongping Chen
+Mingmeng Geng\, Caixi Chen\, **Yanru Wu\**, Yao Wan, Pan Zhou, Dongping Chen
 </div>
 </div>
 <div style="clear: both;"></div>
