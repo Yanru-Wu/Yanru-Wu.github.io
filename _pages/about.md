@@ -23,7 +23,7 @@ I am currently a junior at Huazhong University of Science and Technology.
 
 At present, I am fortunate to work with [Prof.Yue Wang](https://yuewang.xyz/) in the [PSI Lab](https://psi-lab.ai/lab.html) at University of Southern California. And my academic journey has also been enriched by a collaboration with [Prof.Yao Wan](http://wanyao.me/) in [ONE Lab](https://oneslab.github.io/) at Huazhong University of Science and Technology.
 
-My research interests are broadly distributed in **Computer Vision**,**Vision-Language-Models** and **World Models**.
+My research interests are broadly distributed in **3D/4D Computer Vision**,**Vision-Language-Models** and **World Models**.
 If you would like to discuss my research or potential collaborations further, feel free to contact me. I'm open to connect and collaborate with each other.
 
 
