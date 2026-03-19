@@ -33,6 +33,18 @@ If you would like to discuss my research or potential collaborations further, fe
 
 # 📝 Publications (* indicates equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/method.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ 
+[Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models](https://arxiv.org/abs/2603.16065)
+
+**Yanru Wu**, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao, Yue Wang
+
+</div>
+</div>
+<div style="clear: both;"></div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Spotlight</div><img src='images/ISG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
