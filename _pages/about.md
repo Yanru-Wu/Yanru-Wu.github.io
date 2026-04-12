@@ -38,7 +38,7 @@ If you would like to discuss my research or potential collaborations further, fe
  
 [Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models](https://arxiv.org/abs/2603.16065)
 
-**Yanru Wu**, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao, Yue Wang
+**Yanru Wu**, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao\†, Yue Wang\†
 
 </div>
 </div>
