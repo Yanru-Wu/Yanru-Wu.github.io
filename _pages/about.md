@@ -31,14 +31,14 @@ If you would like to discuss my research or potential collaborations further, fe
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ACL 2025 Findings!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2025, and it is selected as Spotlight!
 
-# 📝 Publications (* indicates equal contribution)
+# 📝 Publications (* indicates equal contribution, † indicates equal advising)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/rollout_comparison.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
  
 [Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models](https://arxiv.org/abs/2603.16065)
 
-**Yanru Wu**, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao\†, Yue Wang\†
+**Yanru Wu**, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao†, Yue Wang†
 
 </div>
 </div>
