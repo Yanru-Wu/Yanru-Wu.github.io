@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm **Yanru Wu (吴彦儒)**.
+Hi, I'm **Yanru Wu (吴彦儒)**. My Google Scholar profile has <a href='https://scholar.google.com/citations?user=MbBkBkAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> total citations.
 
 I am currently a junior at Huazhong University of Science and Technology. 
 
@@ -40,6 +40,7 @@ If you would like to discuss my research or potential collaborations further, fe
 
 **Yanru Wu**, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao†, Yue Wang†
 
+<span class='show_paper_citations' data='MbBkBkAAAAAJ:UeHWp8X0CEIC'></span>
 </div>
 </div>
 <div style="clear: both;"></div>
@@ -52,6 +53,7 @@ If you would like to discuss my research or potential collaborations further, fe
 
 Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Chen\*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna
 
+<span class='show_paper_citations' data='MbBkBkAAAAAJ:d1gkVwhDpl0C'></span>
 </div>
 </div>
 <div style="clear: both;"></div>
@@ -62,6 +64,8 @@ Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Che
 [The Impact of Large Language Models in Academia:from Writing to Speaking](https://arxiv.org/abs/2409.13686)
 
 Mingmeng Geng, Caixi Chen, **Yanru Wu**, Yao Wan, Pan Zhou, Dongping Chen
+
+<span class='show_paper_citations' data='MbBkBkAAAAAJ:u5HHmVD_uO8C'></span>
 </div>
 </div>
 <div style="clear: both;"></div>
@@ -76,3 +80,4 @@ Conference Reviewer <br />
 <div style="clear: both;"></div>
 # 💻 Internships
 
+{% include fetch_google_scholar_stats.html %}
