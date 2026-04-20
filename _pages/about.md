@@ -74,7 +74,7 @@ Mingmeng Geng, Caixi Chen, **Yanru Wu**, Yao Wan, Pan Zhou, Dongping Chen
 
 # 🎓 Services
 Conference Reviewer <br />
-- CVPR 2025 Workshop SynData4CV
+- CVPR Workshop SynData4CV
 
 <div style="clear: both;"></div>
 # 💻 Internships
