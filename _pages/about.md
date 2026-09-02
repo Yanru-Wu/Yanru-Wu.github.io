@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm **Yanru Wu (吴彦儒)**. 
-I am currently a junior at Huazhong University of Science and Technology. 
+I am currently a senior at Huazhong University of Science and Technology. 
 
 At present, I am fortunate to work with [Prof.Yue Wang](https://yuewang.xyz/) in the [PSI Lab](https://psi-lab.ai/lab.html) at University of Southern California. And my academic journey has also been enriched by a collaboration with [Prof.Yao Wan](http://wanyao.me/) in [ONE Lab](https://oneslab.github.io/) at Huazhong University of Science and Technology.
 
