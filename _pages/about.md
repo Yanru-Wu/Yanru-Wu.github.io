@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm **Yanru Wu (吴彦儒)**. 
@@ -39,7 +32,6 @@ If you would like to discuss my research or potential collaborations further, fe
 
 **Yanru Wu**, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao†, Yue Wang†
 
-<span class='show_paper_citations' data='MbBkBkAAAAAJ:UeHWp8X0CEIC'></span>
 </div>
 </div>
 <div style="clear: both;"></div>
@@ -52,7 +44,6 @@ If you would like to discuss my research or potential collaborations further, fe
 
 Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Chen\*, Benlin Liu, Yue Huang, Yao Wan, Pan Zhou, Ranjay Krishna
 
-<span class='show_paper_citations' data='MbBkBkAAAAAJ:d1gkVwhDpl0C'></span>
 </div>
 </div>
 <div style="clear: both;"></div>
@@ -64,7 +55,6 @@ Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Che
 
 Mingmeng Geng, Caixi Chen, **Yanru Wu**, Yao Wan, Pan Zhou, Dongping Chen
 
-<span class='show_paper_citations' data='MbBkBkAAAAAJ:u5HHmVD_uO8C'></span>
 </div>
 </div>
 <div style="clear: both;"></div>
@@ -79,4 +69,3 @@ Conference Reviewer <br />
 <div style="clear: both;"></div>
 # 💻 Internships
 
-{% include fetch_google_scholar_stats.html %}
