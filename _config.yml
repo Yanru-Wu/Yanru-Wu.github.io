@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Yanru Wu"
-description              : " "
+description              : "Robot learning, contact-rich manipulation, and foundation models for robotics."
+url                      : "https://yanru-wu.github.io"
 repository               : "Yanru-Wu/Yanru-Wu.github.io"
 
 # google analytics
@@ -22,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanru Wu"
   avatar           : 
-  bio              : "B.Eng.@HUST 27'"
+  bio              : "Undergraduate researcher in robot learning · HUST '27"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
