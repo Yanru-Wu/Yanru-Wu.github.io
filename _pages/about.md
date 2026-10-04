@@ -10,9 +10,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-<div class="intro-eyebrow">ROBOT LEARNING · CONTACT-RICH MANIPULATION · FOUNDATION MODELS</div>
-
-Hi, I'm **Yanru Wu (吴彦儒)**, a senior undergraduate at Huazhong University of Science and Technology (HUST). I am currently a research intern in the Computational Cognition, Vision, and Learning Lab at Johns Hopkins University, advised by **Prof. Alan Yuille** and **Dr. Jieneng Chen**. Previously, I worked with [Prof. Yue Wang](https://yuewang.xyz/) and **Dr. Jiageng Mao** in the [Physical Superintelligence Lab](https://psi-lab.ai/lab.html) at the University of Southern California, and with [Prof. Yao Wan](http://wanyao.me/) in [ONE Lab](https://oneslab.github.io/) at HUST.
+Hi, I'm **Yanru Wu (吴彦儒)**, a senior undergraduate at Huazhong University of Science and Technology (HUST). I am currently a research intern in the [Computational Cognition, Vision, and Learning Lab](https://ccvl.jhu.edu/) at Johns Hopkins University, advised by [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille1/) and Dr. Jieneng Chen. Previously, I worked with [Prof. Yue Wang](https://yuewang.xyz/) and Dr. Jiageng Mao in the [Physical Superintelligence Lab](https://psi-lab.ai/lab.html) at the University of Southern California, and with [Prof. Yao Wan](http://wanyao.me/) in [ONE Lab](https://oneslab.github.io/) at HUST.
 
 My research focuses on building **generalizable robot learning systems** that connect foundation models with physical feedback and policy adaptation. I am particularly interested in cross-platform robot learning, high-precision and contact-rich manipulation, and learning from visual, force/torque, and tactile signals.
 
@@ -22,28 +20,13 @@ My research focuses on building **generalizable robot learning systems** that co
   <a href="https://github.com/Yanru-Wu">GitHub</a>
 </div>
 
-<div class="research-grid">
-  <div class="research-card">
-    <h3>Generalist Robot Learning</h3>
-    <p>Reusable learning and adaptation mechanisms that transfer across tasks, environments, and robot embodiments.</p>
-  </div>
-  <div class="research-card">
-    <h3>Contact-Rich Manipulation</h3>
-    <p>High-precision physical interaction through structured robot programs, compliant control, and execution feedback.</p>
-  </div>
-  <div class="research-card">
-    <h3>Multimodal Physical Feedback</h3>
-    <p>Closing the loop between foundation models and robot behavior with vision, force/torque, and tactile sensing.</p>
-  </div>
-</div>
-
 # News
 
 <ul class="news-list">
-  <li><span class="news-date">2026.05</span><span class="news-text">Joined the CCVL Lab at Johns Hopkins University as a research intern.</span></li>
-  <li><span class="news-date">2026.03</span><span class="news-text">Released our <a href="https://arxiv.org/abs/2603.16065">Large Reward Models</a> preprint on visual reward generation for robot policy refinement.</span></li>
-  <li><span class="news-date">2025.05</span><span class="news-text">One paper was accepted to <strong>Findings of ACL 2025</strong>.</span></li>
-  <li><span class="news-date">2025.01</span><span class="news-text">One paper was accepted to <strong>ICLR 2025 as a Spotlight</strong>.</span></li>
+  <li><span class="news-date">2026.07</span><span class="news-text"><span class="news-icon" aria-hidden="true">🔬</span><span class="news-copy">Joined the CCVL Lab at Johns Hopkins University as a research intern.</span></span></li>
+  <li><span class="news-date">2026.03</span><span class="news-text"><span class="news-icon" aria-hidden="true">📄</span><span class="news-copy">Released our <a href="https://arxiv.org/abs/2603.16065">Large Reward Models</a> preprint on visual reward generation for robot policy refinement.</span></span></li>
+  <li><span class="news-date">2025.05</span><span class="news-text"><span class="news-icon" aria-hidden="true">🎉</span><span class="news-copy">One paper was accepted to <strong>Findings of ACL 2025</strong>.</span></span></li>
+  <li><span class="news-date">2025.01</span><span class="news-text"><span class="news-icon" aria-hidden="true">🎉</span><span class="news-copy">One paper was accepted to <strong>ICLR 2025 as a Spotlight</strong>.</span></span></li>
 </ul>
 
 # Publications
@@ -51,7 +34,7 @@ My research focuses on building **generalizable robot learning systems** that co
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">IROS 2026 Workshop</div>
+      <div class="badge">Under Review</div>
       <img src="images/method.png" alt="Overview of Large Reward Models" width="100%">
     </div>
   </div>
@@ -61,11 +44,15 @@ My research focuses on building **generalizable robot learning systems** that co
 
 **Yanru Wu**, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao, Yue Wang
 
-<div class="paper-venue">IROS 2026 Workshop on AI Meets Autonomy · Preprint</div>
+<div class="paper-venue">Under review; IROS 2026 Workshop on AI Meets Autonomy</div>
 
-<p class="paper-summary">I led the learning and simulation pipeline, including multi-source data construction, three visual reward interfaces, VLM adaptation, and closed-loop PPO evaluation on held-out robot manipulation tasks.</p>
+<p class="paper-summary">A vision-language-model-based framework that generates online visual rewards for robot policy refinement across tasks and environments.</p>
 
-<div class="paper-links"><a href="https://arxiv.org/abs/2603.16065">Paper</a></div>
+<div class="paper-links">
+  <a href="https://arxiv.org/abs/2603.16065">Paper</a>
+  <a href="https://yanru-wu.github.io/Large-Reward-Models/">Website</a>
+  <a href="https://github.com/physical-superintelligence-lab/Large-Reward-Models/tree/main">Code</a>
+</div>
 
   </div>
 </div>
@@ -85,9 +72,13 @@ Dongping Chen\*, Ruoxi Chen\*, Shu Pu\*, Zhaoyi Liu\*, **Yanru Wu\***, Caixi Che
 
 <div class="paper-venue">International Conference on Learning Representations (ICLR), 2025 · Spotlight</div>
 
-<p class="paper-summary">I led the end-to-end construction of the 3D Scene Transformation, Progressive Image Transformation, and Visual Storytelling task families in ISG-Bench.</p>
+<p class="paper-summary">A benchmark centered on interleaved scene graphs for evaluating models that generate and reason across alternating text and images.</p>
 
-<div class="paper-links"><a href="https://arxiv.org/abs/2411.17188">Paper</a></div>
+<div class="paper-links">
+  <a href="https://arxiv.org/abs/2411.17188">Paper</a>
+  <a href="https://interleave-eval.github.io/">Website</a>
+  <a href="https://github.com/Dongping-Chen/ISG">Code</a>
+</div>
 
   </div>
 </div>
@@ -107,7 +98,7 @@ Mingmeng Geng, Caixi Chen, **Yanru Wu**, Yao Wan, Pan Zhou, Dongping Chen
 
 <div class="paper-venue">Findings of the Association for Computational Linguistics (ACL), 2025</div>
 
-<p class="paper-summary">I built the dataset of 30,000+ papers and 1,000+ conference talks and conducted the primary analysis of LLM-associated linguistic shifts in academic writing and speaking.</p>
+<p class="paper-summary">A large-scale analysis of how LLM adoption is changing linguistic patterns in academic papers and conference talks.</p>
 
 <div class="paper-links"><a href="https://arxiv.org/abs/2409.13686">Paper</a></div>
 
@@ -117,41 +108,66 @@ Mingmeng Geng, Caixi Chen, **Yanru Wu**, Yao Wan, Pan Zhou, Dongping Chen
 # Research Experience
 
 <div class="experience-list">
-  <div class="experience-item">
-    <div class="experience-heading">
-      <h3>Johns Hopkins University · CCVL Lab</h3>
-      <span>May 2026 – Present</span>
+  <div class="experience-item experience-item--with-logo">
+    <div class="experience-logo">
+      <img src="images/jhu-shield.svg" alt="Johns Hopkins University shield" loading="lazy">
     </div>
-    <div class="experience-role">Research Intern · Prof. Alan Yuille and Dr. Jieneng Chen</div>
-    <p>Researching generalizable robot learning and physical-feedback-driven adaptation for precise, contact-rich manipulation.</p>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <h3>Johns Hopkins University · CCVL Lab</h3>
+      </div>
+      <div class="experience-meta">
+        <span>Jul 2026 – Present</span>
+        <span>Baltimore, United States</span>
+      </div>
+      <div class="experience-role">Research Intern · Prof. Alan Yuille and Dr. Jieneng Chen</div>
+    </div>
   </div>
-  <div class="experience-item">
-    <div class="experience-heading">
-      <h3>University of Southern California · Physical Superintelligence Lab</h3>
-      <span>May 2025 – May 2026</span>
+  <div class="experience-item experience-item--with-logo">
+    <div class="experience-logo">
+      <img src="images/usc-seal.svg" alt="University of Southern California seal" loading="lazy">
     </div>
-    <div class="experience-role">Research Intern · Prof. Yue Wang and Dr. Jiageng Mao</div>
-    <p>Developed foundation-model-based visual rewards for robot policy refinement across diverse data sources and held-out manipulation tasks.</p>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <h3>University of Southern California · Physical Superintelligence Lab</h3>
+      </div>
+      <div class="experience-meta">
+        <span>May 2025 – May 2026</span>
+        <span>Remote</span>
+      </div>
+      <div class="experience-role">Research Intern · Prof. Yue Wang and Dr. Jiageng Mao</div>
+    </div>
   </div>
-  <div class="experience-item">
-    <div class="experience-heading">
-      <h3>Huazhong University of Science and Technology · ONE Lab</h3>
-      <span>Jul 2024 – Apr 2025</span>
+  <div class="experience-item experience-item--with-logo">
+    <div class="experience-logo">
+      <img src="images/hust-logo.svg" alt="Huazhong University of Science and Technology seal" loading="lazy">
     </div>
-    <div class="experience-role">Research Intern · Prof. Yao Wan</div>
-    <p>Worked on multimodal generation evaluation and large-scale analysis of LLM-associated changes in academic communication.</p>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <h3>Huazhong University of Science and Technology · ONE Lab</h3>
+      </div>
+      <div class="experience-meta">
+        <span>Jul 2024 – Apr 2025</span>
+        <span>Wuhan, China</span>
+      </div>
+      <div class="experience-role">Research Intern · Prof. Yao Wan</div>
+    </div>
   </div>
 </div>
 
 # Education
 
 <div class="experience-item education-item">
-  <div class="experience-heading">
-    <h3>Huazhong University of Science and Technology</h3>
-    <span>Sep 2023 – Jun 2027</span>
+  <div class="experience-content">
+    <div class="experience-heading">
+      <h3>Huazhong University of Science and Technology</h3>
+    </div>
+    <div class="experience-meta">
+      <span>Sep 2023 – Jun 2027</span>
+      <span>Wuhan, China</span>
+    </div>
+    <div class="experience-role">B.Eng. in Electronic and Information Engineering, Honored Class</div>
   </div>
-  <div class="experience-role">B.Eng. in Electronic and Information Engineering, Advanced Class</div>
-  <p>GPA: 89.1/100</p>
 </div>
 
 # Service

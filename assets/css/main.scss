@@ -122,15 +122,6 @@ h1:before, .anchor:before {
     letter-spacing: 0.02em;
 }
 
-.intro-eyebrow {
-    margin-bottom: 0.8rem;
-    color: #1f4b7a;
-    font-family: $sans-serif;
-    font-size: 0.78rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-}
-
 .quick-links {
     display: flex;
     flex-wrap: wrap;
@@ -156,37 +147,6 @@ h1:before, .anchor:before {
     }
 }
 
-.research-grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 0.8rem;
-    margin: 1rem 0 1.8rem;
-
-    @include breakpoint($medium) {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-}
-
-.research-card {
-    padding: 1rem;
-    border: 1px solid #e4e8ee;
-    border-radius: 10px;
-    background: #f8fafc;
-
-    h3 {
-        margin: 0 0 0.45rem;
-        color: #173b61;
-        font-size: 1rem;
-    }
-
-    p {
-        margin: 0;
-        color: #455468;
-        font-size: 0.9rem;
-        line-height: 1.5;
-    }
-}
-
 .news-list {
     padding-left: 0;
     list-style: none;
@@ -205,7 +165,15 @@ h1:before, .anchor:before {
     }
 
     .news-text {
+        display: grid;
+        grid-template-columns: 1.35rem minmax(0, 1fr);
+        gap: 0.35rem;
         min-width: 0;
+    }
+
+    .news-icon {
+        line-height: 1.45;
+        text-align: center;
     }
 }
 
@@ -254,6 +222,10 @@ h1:before, .anchor:before {
             background: #173b61;
             text-decoration: none;
         }
+
+        + a {
+            margin-left: 0.45rem;
+        }
     }
 }
 
@@ -271,36 +243,92 @@ h1:before, .anchor:before {
     }
 }
 
-.experience-heading {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
+.experience-item--with-logo {
+    display: grid;
+    grid-template-columns: 4.5rem minmax(0, 1fr);
     gap: 1rem;
+    align-items: center;
+
+    @include breakpoint(max-width $small) {
+        grid-template-columns: 3.25rem minmax(0, 1fr);
+        gap: 0.75rem;
+    }
+}
+
+.experience-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 4.5rem;
+    height: 4.5rem;
+
+    img {
+        display: block;
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+    }
+
+    @include breakpoint(max-width $small) {
+        width: 3.25rem;
+        height: 3.25rem;
+    }
+}
+
+.experience-content {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas:
+        "heading meta"
+        "role meta";
+    column-gap: 1rem;
+    align-items: start;
+    min-width: 0;
+
+    @include breakpoint(max-width $small) {
+        display: block;
+    }
+}
+
+.experience-heading {
+    grid-area: heading;
 
     h3 {
         margin: 0;
         font-size: 1.02rem;
     }
+}
+
+.experience-meta {
+    grid-area: meta;
+    text-align: right;
 
     span {
-        flex: 0 0 auto;
+        display: block;
         color: #566579;
         font-family: $sans-serif;
         font-size: 0.85rem;
         font-weight: 600;
+
+        + span {
+            margin-top: 0.15rem;
+        }
     }
 
     @include breakpoint(max-width $small) {
-        display: block;
+        margin-top: 0.25rem;
+        text-align: left;
 
         span {
-            display: block;
-            margin-top: 0.25rem;
+            + span {
+                margin-top: 0.1rem;
+            }
         }
     }
 }
 
 .experience-role {
+    grid-area: role;
     margin-top: 0.3rem;
     color: #1f4b7a;
     font-family: $sans-serif;
